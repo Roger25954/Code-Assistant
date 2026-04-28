@@ -1,0 +1,17 @@
+# Keys y secretos
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Anaconda
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
